@@ -1,0 +1,6 @@
+Crear mi propio modulo
+
+1. Crear repositorio primero
+1a. $ go mod init github.com/Camacaro/go-my-mod-helloworld
+2. Crearemos un archivo, pero ya no es necesario un archivo main ya que este será usado como un pquete para proyectos externos
+3. 
